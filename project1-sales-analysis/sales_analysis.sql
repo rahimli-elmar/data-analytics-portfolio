@@ -2,7 +2,6 @@
    Author: Elmar Rahimli
 */
 
-/* ===== Setup: Create table + sample inserts ===== */
 
 BEGIN
   EXECUTE IMMEDIATE 'DROP TABLE sales';
