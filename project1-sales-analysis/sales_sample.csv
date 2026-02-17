@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,product_name,category,quantity,unit_price,city
+1001,2025-10-05,Ali Mammadov,Pizza Margherita,Pizza,2,8,Baku
+1002,2025-10-05,Nigar Aliyeva,Sushi Set,Sushi,1,15,Baku
+1003,2025-11-12,Rashad Hasanov,Burger Classic,Burger,3,6,Sumqayit
+1004,2025-11-12,Sevda Karimova,Pizza Pepperoni,Pizza,1,9,Baku
+1005,2025-12-01,Kamran Suleymanli,Sushi Set,Sushi,2,15,Ganja
+1006,2025-12-15,Aysel Huseynova,Pasta Alfredo,Pasta,1,10,Baku
+1007,2026-01-08,Ali Mammadov,Burger Classic,Burger,2,6,Baku
+1008,2026-01-08,Nigar Aliyeva,Pizza Margherita,Pizza,1,8,Sumqayit
+1009,2026-02-02,Rashad Hasanov,Sushi Set,Sushi,1,15,Baku
+1010,2026-02-02,Sevda Karimova,Pasta Alfredo,Pasta,2,10,Ganja
