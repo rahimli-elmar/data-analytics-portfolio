@@ -17,3 +17,7 @@ This project analyzes sales data to extract business insights using SQL.
 
 ##  Key Insights
 (Insights will be added after data analysis)
+
+##  Dashboard Preview
+
+![Sales Dashboard](Ekran%20%C5%9F%C9%99kli%202026-02-18%20020220.png)
